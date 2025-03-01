@@ -16,10 +16,14 @@ API para o projeto [BeTalent](https://github.com/AleferReinert/betalent).
    ```
     yarn install
    ```
+4. Inicie a API:
+   ```
+   yarn start
+   ```
 
 ## Tecnologias Utilizadas
 
-- **json-server:** Simula uma API REST falsa sem configurações.
+- **json-server:** Simula uma API REST falsa completa.
 
 ## URL do Projeto
 
