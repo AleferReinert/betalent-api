@@ -6,9 +6,9 @@
 	"author": "Alefer Reinert <aleferreinert@gmail.com>",
 	"license": "MIT",
 	"scripts": {
-		"start": "npx json-server db.json --port 3000"
+		"start": "node server.js"
 	},
 	"dependencies": {
-		"json-server": "1.0.0-alpha.23"
+		"json-server": "0.17.1"
 	}
 }
