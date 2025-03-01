@@ -27,5 +27,5 @@ API para o projeto [BeTalent](https://github.com/AleferReinert/betalent).
 
 ## URL do Projeto
 
-Explore a API no link: [betalent-api.onrender.com](https://betalent-api.onrender.com/).
+Explore a API no link: [betalent-api.onrender.com](https://betalent-api.onrender.com).
 
