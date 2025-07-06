@@ -1,6 +1,6 @@
-# BeTalent - API Simulada
+# BeTalent - API
 
-API para o projeto [BeTalent](https://github.com/AleferReinert/betalent).
+API simulada para o projeto [BeTalent](https://github.com/AleferReinert/betalent).
 
 ## Começando
 
@@ -24,8 +24,4 @@ API para o projeto [BeTalent](https://github.com/AleferReinert/betalent).
 ## Tecnologias Utilizadas
 
 - **json-server:** Simula uma API REST falsa completa.
-
-## URL do Projeto
-
-Explore a API no link: [betalent-api.onrender.com](https://betalent-api.onrender.com).
 
